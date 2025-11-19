@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* CryptoVault Design System - Dark cyberpunk theme with teal/green gradients */
+
+@layer base {
+  :root {
+    /* Dark cyberpunk color palette */
+    --background: 210 30% 8%;
+    --foreground: 0 0% 98%;
+    
+    --card: 210 30% 10%;
+    --card-foreground: 0 0% 98%;
+    
+    --popover: 210 30% 12%;
+    --popover-foreground: 0 0% 98%;
+    
+    /* Teal primary colors */
+    --primary: 174 83% 50%;
+    --primary-foreground: 210 30% 8%;
+    
+    /* Green secondary colors */
+    --secondary: 158 64% 52%;
+    --secondary-foreground: 210 30% 8%;
+    
+    --muted: 210 30% 15%;
+    --muted-foreground: 0 0% 70%;
+    
+    /* Cyan accent */
+    --accent: 186 100% 56%;
+    --accent-foreground: 210 30% 8%;
+    
+    /* Status colors */
+    --success: 142 76% 56%;
+    --success-foreground: 210 30% 8%;
+    
+    --warning: 38 92% 50%;
+    --warning-foreground: 210 30% 8%;
+    
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 98%;
+    
+    --border: 210 30% 20%;
+    --input: 210 30% 15%;
+    --ring: 174 83% 50%;
+    
+    --radius: 0.75rem;
+    
+    /* Gradients */
+    --gradient-primary: linear-gradient(135deg, hsl(174 83% 50%) 0%, hsl(158 64% 52%) 100%);
+    --gradient-secondary: linear-gradient(135deg, hsl(158 64% 52%) 0%, hsl(186 100% 56%) 100%);
+    --gradient-cyber: linear-gradient(135deg, hsl(174 83% 50% / 0.1) 0%, hsl(158 64% 52% / 0.1) 100%);
+    --gradient-glow: radial-gradient(circle at center, hsl(174 83% 50% / 0.3) 0%, transparent 70%);
+    
+    /* Shadows and glows */
+    --shadow-glow: 0 0 20px hsl(174 83% 50% / 0.3);
+    --shadow-cyber: 0 4px 20px hsl(210 30% 8% / 0.5);
+    --shadow-card: 0 8px 32px hsl(210 30% 8% / 0.8);
+    
+    /* Animation */
+    --transition-cyber: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
