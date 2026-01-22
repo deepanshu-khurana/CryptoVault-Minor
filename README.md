@@ -109,11 +109,8 @@ Academic Year: **2025–2026**
 
 ### 👨‍💻 Project Team
 - **Mudit Rastogi**  
-  Enrollment No: 9923103240
 - **Samradhi Kaushal**  
-  Enrollment No: 9923103241
 - **Deepanshu Khurana**  
-  Enrollment No: 9923103232
 
 ### 👩‍🏫 Supervision
 - **Dr. Rashmi Kushwah**  
