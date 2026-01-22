@@ -123,3 +123,11 @@ Academic Year: **2025–2026**
 This project was submitted as part of the **B. Tech CSE curriculum** and is intended strictly for **academic and educational purposes**.
 
 ---
+## Screenshots 
+|Image                                                                                                                             | Desc |
+|----------------------------------------------------------------------------------------------------------------------------------|------|
+|<img width="828" height="418" alt="image" src="https://github.com/user-attachments/assets/8398c743-f943-4d61-8c84-6ee503d615fb" />| Sharing Page | 
+|<img width="925" height="524" alt="image" src="https://github.com/user-attachments/assets/8b32ebb4-d381-431e-b248-ee7f608f529d" /> | Upload Interface| 
+|<img width="644" height="481" alt="image" src="https://github.com/user-attachments/assets/7f1ff8f8-7c43-409c-aeb9-fcc5d7e7b6cd" /> | AWS Bucket | 
+|<img width="727" height="310" alt="image" src="https://github.com/user-attachments/assets/0543deb8-911b-4acd-8e10-4f1ec44fa8f6" /> | User Dashboard |
+|<img width="926" height="377" alt="image" src="https://github.com/user-attachments/assets/4e5a7ca3-8521-4741-8a47-507ceea410d5" /> | Decryption Key Tables |
