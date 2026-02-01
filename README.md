@@ -103,18 +103,10 @@ CryptoVault follows a **three-pillar architecture**:
 ### 🎓 Institution
 **Jaypee Institute of Information Technology, Noida**
 
-### 📚 Course
-**Minor Project-I (B. Tech CSE)**  
-Academic Year: **2025–2026**
-
 ### 👨‍💻 Project Team
 - **Mudit Rastogi**  
 - **Samradhi Kaushal**  
 - **Deepanshu Khurana**  
-
-### 👩‍🏫 Supervision
-- **Dr. Rashmi Kushwah**  
-  Assistant Professor (Senior Grade)
 
 ---
 
